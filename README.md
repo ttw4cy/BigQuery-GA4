@@ -12,7 +12,7 @@ We will also leave some course recommendations to learn the basics of SQl if you
 
 
 - [Youtube - Portuguese](https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K)
-- [Youtube - English](https://www.youtube.com/watch?v=HXV3zeQKqGY).
+- [Youtube - English](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 
 ![GA4-BQ](https://scandiweb.com/blog/wp-content/uploads/2020/12/GA4_BQ.png)
