@@ -5,6 +5,8 @@ Before you start exploring this document, know that there is a place where you c
 
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog)
 ![GA4-BQ](https://scandiweb.com/blog/wp-content/uploads/2020/12/GA4_BQ.png)
+
+
 ## Query data from Google Analytics 4
 - Default Events
 - Ecommerce Event 
