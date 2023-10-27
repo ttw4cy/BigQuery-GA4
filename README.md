@@ -12,6 +12,8 @@ We will also leave some course recommendations to learn the basics of SQl if you
 
 
 [PORTUGUESE](https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K)
+
+
 [ENGLISH](https://www.youtube.com/watch?v=HXV3zeQKqGY).
 
 
